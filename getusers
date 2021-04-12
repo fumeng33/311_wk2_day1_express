@@ -1,0 +1,4 @@
+GET/ user
+get all the user
+
+GET/ users/1
